@@ -13,5 +13,3 @@ Depends: ${misc:Depends}, ${perl:Depends}, libtemplate-plugin-vmethods-perl,
  perl
 Description: Sort::Naturally for Template Toolkit
  sort lexically, but sort numeral parts numerically
- .
- This description was automagically extracted from the module by dh-make-perl.
