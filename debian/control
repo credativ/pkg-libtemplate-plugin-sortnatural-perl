@@ -9,7 +9,10 @@ Homepage: http://search.cpan.org/dist/Template-Plugin-SortNatural/
 
 Package: libtemplate-plugin-sortnatural-perl
 Architecture: all
-Depends: ${misc:Depends}, ${perl:Depends}, libtemplate-plugin-vmethods-perl,
- perl
+Depends: libsort-naturally-perl,
+         libtemplate-plugin-vmethods-perl,
+         perl,
+         ${misc:Depends},
+         ${perl:Depends}
 Description: Sort::Naturally for Template Toolkit
  sort lexically, but sort numeral parts numerically
