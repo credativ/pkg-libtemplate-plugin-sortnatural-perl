@@ -2,7 +2,9 @@ Source: libtemplate-plugin-sortnatural-perl
 Section: perl
 Priority: optional
 Build-Depends: debhelper (>= 7)
-Build-Depends-Indep: libtemplate-plugin-vmethods-perl, perl
+Build-Depends-Indep: libsort-naturally-perl,
+                     libtemplate-plugin-vmethods-perl,
+                     perl
 Maintainer: Alexander Wirt <formorer@debian.org>
 Standards-Version: 3.9.1
 Homepage: http://search.cpan.org/dist/Template-Plugin-SortNatural/
