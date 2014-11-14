@@ -58,7 +58,7 @@ https://github.com/credativ/pkg-libtemplate-plugin-sortnatural-perl/issues
 
 =head1 COPYRIGHT & LICENSE
 
-Copyright 2013 by Alexander Wirt <alexander.wirt@formorer.de>
+Copyright 2014 by Alexander Wirt C<< <formorer@formorer.de> >>
 
 This program is free software; you can redistribute it and/or modify it
 under the same terms as Perl itself.
